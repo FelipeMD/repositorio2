@@ -1,0 +1,152 @@
+
+
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+	/*font-size: 0px;*/
+
+}
+
+body
+{
+	background-color: #88ccf1	;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.navigation
+{
+	background-color: #348aa7;
+
+	color: #bce784; 
+
+	height: 50px;
+}
+
+
+.navigation ul
+{
+	margin-top: 0px;
+
+	list-style: none;
+	padding-left: 0px;
+	text-align: right;
+
+	height: 50px;
+}
+
+.navigation li
+{
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+
+	line-height: 40px;
+
+	font-size: 20px;
+
+	font-weight: 400;
+}
+
+.capa
+{
+	color: #348aa7;
+	background-color: #88ccf1;
+
+}
+
+.capa span
+{
+	color: #513b56;
+	display: block;
+}
+
+.capa div
+{
+	display: inline-block;
+
+	height: 650px;
+}
+
+.profileTitle
+{
+	vertical-align: top;
+	width: 59%;
+}
+
+.profilePic
+{
+	width: 40%;
+	text-align: center;
+}
+
+.profilePic img
+{
+	width: 300px;
+	border-radius: 300px;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+.profileTitle h1
+{
+	text-transform: uppercase;
+	font-size: 58px;
+	margin-top: 200px;
+
+	font-weight: 400;
+
+	line-height: 52px;
+}
+
+.profileTitle h2
+{
+	font-size: 20px;
+	margin-top: -40px;
+}
+
+.main
+{
+	padding: 80px 180px 80px 100px
+
+}
+
+.main h1
+{
+	color: white;
+	font-weight: normal;
+}
+
+.main h2
+{
+	color: white;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+
+.main h3
+{
+	color: #f27609;
+	font-size: 12px;
+	text-transform: uppercase;;
+	font-weight: normal;
+}
+
+.main p
+{
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 29px;
+}
+
+.navigationC
+{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.navigationC li
+{
+	display: inline-block;
+}
